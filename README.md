@@ -35,3 +35,4 @@ await QR.api.draw(url, 'myQrcode', 200, 200, this, null, async () => {
 | 第五个 | 当前方法节点  | this |
 | 第六个 | 等级  | number |
 | 第七个 | 回调函数  | function |
+
